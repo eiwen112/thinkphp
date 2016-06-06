@@ -1,7 +1,7 @@
 <?php
 return array(
 		// 允许访问的模块列表
-		'MODULE_ALLOW_LIST'    =>    array('Home'),
+		'MODULE_ALLOW_LIST'    =>    array('Home','Api'),
 		'DEFAULT_MODULE'       =>    'Home',  // 默认模块
 		//数据库配置信息
 		'DB_TYPE'   => 'mysql', // 数据库类型
